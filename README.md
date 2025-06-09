@@ -24,6 +24,9 @@ I’m a passionate developer with a strong interest in backend development and p
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 
 ---
@@ -50,6 +53,9 @@ I’m a passionate developer with a strong interest in backend development and p
 
 ![Maaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmaazwk27&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmaazwk27&layout=compact)
+
+## 📈 Leetcode Stats
+![leetcode](https://leetcard.jacoblin.cool/mmaazwk27?theme=light&font=Encode%20Sans%20Semi%20Expanded&ext=heatmap)
 
 <!---
 mmaazwk27/mmaazwk27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
